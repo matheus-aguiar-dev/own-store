@@ -1,0 +1,57 @@
+.bgblack{
+	background-color: #000000;
+	border-radius: 0 0 10px 10px;
+	color: white;
+}
+#bgblack{
+	background-color: #1a1a1a;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	color: white;
+	padding: 13px;
+}
+
+#bgwhite{
+	background-color: #f0f0f0;
+	border-radius: 10px;
+	border: 1px solid #000000;
+	color: black;
+	padding: 13px;
+}
+
+#title_label{
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.border_bottom{
+	border-bottom: 1px solid grey;
+	border-radius: 0 0 10px 10px;
+}
+
+.button-highlighted{
+	background: #1d5298;
+	border: none;
+	text-shadow: none;
+	color: white;
+}
+
+.button-highlighted:hover{
+	background: #1d3b98;
+	border: none;
+	text-shadow: none;
+	color: white;
+}
+.button-unistall{
+  background: #CC0000;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+}
+.button-unistall:hover {
+  background-color: #990000;
+}
+.spin{
+	color: blue;
+	-GtkSpinner-minimum-symbol-size: 100px;
+}

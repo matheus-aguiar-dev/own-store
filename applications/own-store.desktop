@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Own-Store
+Exec=env GDK_BACKEND=x11 python3 /usr/share/own-store/src/main.py
+Icon=/usr/share/own-store/resources/icon.png
+Categories=System;
+
+
+

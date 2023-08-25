@@ -1,0 +1,12 @@
+Source: own-store
+Section: python
+Priority: optional
+Maintainer: Matheus Aguiar <matheusaguiiar95@gmail.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+
+Package:own-store
+Architecture: all
+Depends: flatpak
+Description: own-store
+ The application provides a graphical interface that allows users to explore, install, and manage a variety of applications using Flatpak. It offers a convenient and efficient way to discover and utilize software in the Linux ecosystem, delivering an experience akin to app stores found on other platforms.

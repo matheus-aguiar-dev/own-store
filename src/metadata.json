@@ -1,0 +1,95 @@
+{
+	"apps": [
+		{
+			"name": "Discord",
+			"exec": "com.discordapp.Discord",
+			"icon": "/usr/share/own-store/resources/discord.png",
+			"repo": "flatpak",
+			"category": "Internet",
+			"description": "O Discord é uma plataforma de comunicação online que permite conversas por voz, vídeo e texto em tempo real. É amplamente utilizado por gamers e também por outros grupos, oferecendo recursos como salas de bate-papo, chamadas de voz, compartilhamento de tela e transmissões ao vivo. O Discord é conhecido por sua interface intuitiva e qualidade de áudio, tornando-o uma escolha popular para se conectar e colaborar com outras pessoas em diferentes comunidades."
+		},	
+		{
+			"name": "Google Chrome",
+			"exec": "com.google.Chrome",
+			"icon": "/usr/share/own-store/resources/chrome.png",
+			"repo": "flatpak",
+			"category": "Internet" ,
+			"description": "O Chrome é um navegador da web desenvolvido pela Google. Ele é conhecido por sua velocidade, desempenho e recursos avançados. O Chrome oferece uma experiência de navegação rápida e suave, permitindo que os usuários acessem sites, executem aplicativos da web e realizem pesquisas na internet de forma eficiente. Além disso, o Chrome possui recursos de segurança robustos, como navegação segura e proteção contra phishing, o que ajuda a manter os usuários protegidos durante a navegação online. O Chrome também oferece suporte a extensões, permitindo que os usuários personalizem e aprimorem sua experiência de navegação de acordo com suas necessidades e preferências."
+		},	
+		{
+			"name": "Spotify",
+			"exec": "com.spotify.Client",
+			"icon": "/usr/share/own-store/resources/spotify.png",
+			"repo": "flatpak",
+			"category": "Internet",
+			"description": "O Spotify é uma plataforma de streaming de música popular que oferece acesso a um vasto catálogo de músicas de diversos gêneros e artistas. Com o Spotify, os usuários podem ouvir suas músicas favoritas sob demanda, criar listas de reprodução personalizadas, descobrir novas músicas e artistas, e seguir perfis de outros usuários para explorar seus gostos musicais. Além disso, o Spotify oferece recursos como rádios personalizadas, recomendações de músicas com base nos hábitos de audição e a capacidade de criar e compartilhar playlists com amigos. Com opções de assinatura gratuita e premium, o Spotify tornou-se uma plataforma popular para os amantes da música em todo o mundo."
+		},	
+		{
+			"name": "Zoom",
+			"exec": "us.zoom.Zoom",
+			"icon": "/usr/share/own-store/resources/zoom.png",
+			"repo": "flatpak",
+			"category": "Development",
+			"description": "O Zoom é uma plataforma de comunicação por vídeo que permite realizar videoconferências, reuniões online, webinars e chamadas de áudio. É um aplicativo amplamente utilizado tanto para fins pessoais quanto profissionais, proporcionando uma maneira conveniente de se conectar virtualmente com outras pessoas em qualquer lugar do mundo. O Zoom oferece recursos como compartilhamento de tela, bate-papo em grupo, gravação de reuniões, integração com calendários, enquetes interativas e muito mais. Ele suporta chamadas individuais e em grupo, permitindo que pessoas de diferentes localidades se conectem facilmente e participem de reuniões virtuais."
+		},	
+		{
+			"name": "Only Office",
+			"exec": "org.onlyoffice.desktopeditors",
+			"icon": "/usr/share/own-store/resources/onlyoffice.png",
+			"repo": "flatpak",
+			"category": "Development",
+			"description": "O OnlyOffice é um conjunto de aplicativos de produtividade colaborativa online que oferece soluções para criação, edição e compartilhamento de documentos, planilhas e apresentações. Ele foi projetado para facilitar a colaboração em equipe, permitindo que os usuários trabalhem simultaneamente em documentos, realizem revisões e comentários em tempo real, além de compartilharem seus projetos com colegas e colaboradores."
+		},	
+		{
+			"name": "VS Code",
+			"exec": "com.visualstudio.code",
+			"icon": "/usr/share/own-store/resources/vscode.png",
+			"repo": "flatpak",
+			"category": "Development",
+			"description": "O Visual Studio Code (VSCode) é um editor de código-fonte desenvolvido pela Microsoft. Ele é amplamente utilizado por desenvolvedores de software devido à sua ampla gama de recursos e sua capacidade de personalização. O VSCode oferece suporte a várias linguagens de programação e frameworks, incluindo JavaScript, Python, C++, HTML, CSS e muitos outros."
+		},	
+		{
+			"name": "Krita",
+			"exec": "org.kde.krita",
+			"icon": "/usr/share/own-store/resources/krita.png",
+			"repo": "flatpak",
+			"category": "Development",
+			"description": "O Krita é um software de pintura digital gratuito e de código aberto, projetado para artistas e ilustradores. Com uma ampla variedade de pincéis e ferramentas avançadas, ele permite criar obras de arte digitais realistas. Com suporte a camadas, ajustes de cor e edição de imagem, o Krita oferece flexibilidade e controle criativo. Compatível com tablets gráficos e formatos populares de arquivo, é uma opção poderosa para artistas digitais."
+		},	
+		{
+			"name": "Skype",
+			"exec": "com.skype.Client",
+			"icon": "/usr/share/own-store/resources/skype.png",
+			"repo": "flatpak",
+			"category": "Internet",
+			"description": "O Skype é uma plataforma de comunicação por voz, vídeo e mensagens instantâneas. Ele permite que os usuários se conectem e se comuniquem com outras pessoas ao redor do mundo. Com recursos como chamadas de voz e vídeo gratuitas, chamadas para telefones fixos e celulares, chat em grupo, compartilhamento de arquivos e chamadas de vídeo em grupo, o Skype é amplamente utilizado para fins pessoais e profissionais. Além disso, o Skype oferece recursos adicionais, como tradução em tempo real e integração com outros aplicativos e serviços. É uma ferramenta popular para manter-se conectado com amigos, familiares e colegas de trabalho."
+		},	
+		{
+			"name": "Steam",
+			"exec": "com.valvesoftware.Steam",
+			"icon": "/usr/share/own-store/resources/steam.png",
+			"repo": "flatpak",
+			"category": "Games",
+			"description": "O Steam é uma plataforma de distribuição digital e comunidade de jogos desenvolvida pela Valve Corporation. Ela permite que os usuários comprem, baixem e joguem uma ampla variedade de jogos para PC, Mac e Linux. O Steam oferece uma vasta biblioteca de jogos, desde títulos indie até grandes lançamentos de desenvolvedores renomados. Além disso, o Steam fornece recursos como conquistas, rankings, bate-papo com amigos, grupos de jogadores, transmissão ao vivo de jogos e suporte para mods. Os jogadores também podem comprar DLCs, pacotes de expansão e itens adicionais para personalizar sua experiência de jogo. O Steam é amplamente utilizado e conhecido como uma das principais plataformas de jogos para PC, proporcionando aos jogadores uma forma conveniente de descobrir, comprar e desfrutar de uma variedade de jogos digitais." 
+		},	
+		{
+			"name": "Whatsapp",
+			"exec": "io.github.mimbrero.WhatsAppDesktop",
+			"icon": "/usr/share/own-store/resources/whatsapp.png",
+			"repo": "flatpak",
+			"category": "Internet",
+			"description": "O WhatsApp é um aplicativo de mensagens instantâneas amplamente utilizado em dispositivos móveis. Ele permite que os usuários enviem mensagens de texto, áudio, imagens e vídeos, façam chamadas de voz e vídeo, compartilhem documentos e localização, e participem de chats em grupo. O WhatsApp é conhecido por sua interface intuitiva e fácil de usar, além de oferecer recursos de criptografia de ponta a ponta para garantir a privacidade das conversas."
+		},
+		{
+			"name": "Slack",
+			"exec": "com.slack.Slack",
+			"icon": "/usr/share/own-store/resources/slack.png",
+			"repo": "flatpak",
+			"category": "Internet",
+			"description": "O Slack é uma plataforma de comunicação e colaboração desenvolvida para equipes de trabalho. Ele permite que os membros de uma equipe se comuniquem de forma eficiente, compartilhem arquivos, realizem chamadas de áudio e vídeo, e organizem conversas por meio de canais temáticos. Com o Slack, é possível criar canais para diferentes equipes, projetos ou tópicos específicos, facilitando a organização das conversas e mantendo tudo centralizado em um único lugar. Os usuários também podem enviar mensagens diretas para outros membros da equipe, facilitando a comunicação individual."
+		}	
+	],
+	"logo": "/usr/share/own-store/resources/own_brand.png",
+	"categories": ["Development","Internet","Games","More Apps"]
+
+}

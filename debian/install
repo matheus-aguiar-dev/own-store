@@ -1,0 +1,3 @@
+resources/* /usr/share/own-store/resources
+src/* /usr/share/own-store/src
+applications/* /usr/share/applications/
