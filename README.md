@@ -1,3 +1,8 @@
+# Demo
+
+![alt text](https://github.com/matheus-aguiar-dev/own-store/blob/main/images/demo.png)
+
+
 ## own-store
 
 The application provides a graphical interface that allows users to explore, install, and manage a variety of applications using Flatpak. It offers a convenient and efficient way to discover and utilize software in the Linux ecosystem, delivering an experience akin to app stores found on other platforms.
